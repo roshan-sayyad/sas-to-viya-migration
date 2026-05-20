@@ -1,0 +1,6 @@
+source_platform: SAS 9
+target_platform: SAS Viya
+
+validation:
+  row_count_check: true
+  aggregate_check: true
